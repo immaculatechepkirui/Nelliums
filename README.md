@@ -1,4 +1,4 @@
-# Unravelling Africa's Sovereign Debt Crisis — Submission Package
+# Nelliums - Unravelling Africa's Sovereign Debt Crisis
 
 Project: Unravelling Africa’s sovereign debt crisis — path to sustainability  
 Author / Team: Immaculate Chepkirui  
