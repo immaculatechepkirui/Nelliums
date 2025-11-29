@@ -35,8 +35,8 @@ Key deliverables (included)
 - `CHECKLIST.md` — rubric mapping and submission checklist.
 
 How to reproduce the projection
-1. In your notebook, set the projection inputs (cells provided in the notebook):
-   - initial_b = 0.70 (or use the latest df_work['debt_to_gdp'] if present)
+1. In the notebook, set the projection inputs (cells provided in the notebook):
+   - initial_b = 0.70 (or use the latest df_work['debt_to_gdp'])
    - n_years = 10
    - growth = 0.03
    - interest = 0.05
@@ -46,9 +46,6 @@ How to reproduce the projection
 
 Notes & transparency
 - The 70.0% initial debt ratio was the starting value used in your projection run (this came from your notebook run).
-- The projection is deterministic and aggregate: it assumes homogeneous debt composition, constant real interest and growth rates, and a constant primary balance across the horizon. These simplifications are documented in the summary and the notebook and can be extended in next steps.
+- The projection is deterministic and aggregate: it assumes homogeneous debt composition, constant real interest and growth rates, and a constant primary balance across the horizon. These simplifications are documented in the summary and the notebook and can be extended in the next steps.
 
-If you’d like:
-- I can generate a second scenario (baseline vs alternative) and add a comparison chart and updated slide.
-- I can convert `PRESENTATION_SLIDES.md` into a PowerPoint (.pptx) and attach it for download.
-- If you want me to insert historical trend numbers from your cleaned dataset into the summary, run the Step C block I provided earlier and paste the JSON output here — I’ll update all narrative sections to include those exact historical figures.
+
