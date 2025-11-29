@@ -24,8 +24,6 @@
 
 Files to attach to the submission:
 - `Unravelling_Africa_Sovereign_Debt.ipynb`
-- `output/sheet_cleaned.csv`
-- `output/debt_projection_example.csv`
 - `PRESENTATION_SLIDES.md`
 - `PRESENTATION_SCRIPT.txt`
 - `SUBMISSION_SUMMARY.md`
