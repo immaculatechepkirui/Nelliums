@@ -27,8 +27,6 @@ Reproducible baseline projection (exact numbers used in the submission)
 
 Key deliverables (included)
 - `Unravelling_Africa_Sovereign_Debt.ipynb` — reproducible Jupyter Notebook (step-by-step).
-- `output/sheet_cleaned.csv` — cleaned input table produced by the notebook.
-- `output/debt_projection_example.csv` — the projection table (baseline) you generated.
 - `PRESENTATION_SLIDES.md` — slide content (text for each slide).
 - `PRESENTATION_SCRIPT.txt` — speaker script with timing.
 - `SUBMISSION_SUMMARY.md` — concise executive summary, findings and recommendations.
