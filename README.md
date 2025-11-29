@@ -1,7 +1,7 @@
 # Unravelling Africa's Sovereign Debt Crisis — Submission Package
 
 Project: Unravelling Africa’s sovereign debt crisis — path to sustainability  
-Author / Team: immahleley444-crypt  
+Author / Team: Immaculate Chepkirui
 Sheet used: https://docs.google.com/spreadsheets/d/1nScTr3a0GXHtcBAQIHTXpJAqKLSvpr2K/edit?gid=151745
 
 Overview
