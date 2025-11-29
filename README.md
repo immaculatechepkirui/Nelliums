@@ -1,8 +1,9 @@
 # Unravelling Africa's Sovereign Debt Crisis — Submission Package
 
 Project: Unravelling Africa’s sovereign debt crisis — path to sustainability  
-Author / Team: Immaculate Chepkirui
+Author / Team: Immaculate Chepkirui  
 Sheet used: https://docs.google.com/spreadsheets/d/1nScTr3a0GXHtcBAQIHTXpJAqKLSvpr2K/edit?gid=151745
+Jupyter Notebook Code: https://colab.research.google.com/drive/1gyvjGQibn7MtGC5awlzoEJ5uRJWd-9N8?usp=sharing
 
 Overview
 - A reproducible Jupyter Notebook workflow that:
@@ -27,8 +28,6 @@ Reproducible baseline projection (exact numbers used in the submission)
 
 Key deliverables (included)
 - `Unravelling_Africa_Sovereign_Debt.ipynb` — reproducible Jupyter Notebook (step-by-step).
-- `output/sheet_cleaned.csv` — cleaned input table produced by the notebook.
-- `output/debt_projection_example.csv` — the projection table (baseline) you generated.
 - `PRESENTATION_SLIDES.md` — slide content (text for each slide).
 - `PRESENTATION_SCRIPT.txt` — speaker script with timing.
 - `SUBMISSION_SUMMARY.md` — concise executive summary, findings and recommendations.
