@@ -1,0 +1,31 @@
+Total presentation time: 6–8 minutes (recommended)
+
+Title 
+"Hello, I am Immaculate Chepkirui. Nelliums is 'Unravelling Africa’s sovereign debt crisis — path to sustainability.' This work turns public fiscal datasets into actionable analysis for policymakers."
+
+General Overview 
+"Fiscal stability is central to inclusive development. Many countries face persistent deficits and rising debt. This project seeks to extract signals from the provided dataset to inform policy."
+
+Objective 
+"My objective was to compute key indicators—debt-to-GDP, trade balance, expenditure shares—and build scenario projections to guide policy trade-offs."
+
+Data & Methods 
+"I ingest the public Google Sheet as CSV, clean columns, infer dates/numerics, compute indicators, and use a deterministic debt identity for projections."
+
+Expected Outcome
+"Deliverables: reproducible notebook, cleaned dataset, projection CSV, and slides with policy recommendations."
+
+Tools 
+"I used Python in Jupyter with pandas, numpy, matplotlib/seaborn and plotly for charts."
+
+Key Results 
+"Baseline projection (assumptions: initial debt 70.0%, growth 3.0%, interest 5.0%, primary balance -1.0%): debt-to-GDP moves from 70.0% to 95.8% over 10 years. This illustrates the sensitivity of debt dynamics to the interest-growth differential and persistent deficits."
+
+Policy Recommendations 
+"Strengthen revenue, protect social spending, manage debt composition, and create an automated monitoring dashboard."
+
+Limitations & Next Steps 
+"Model simplifications (no maturity structure, no stochastic shocks). Next steps: maturity-structured simulation, stochastic scenarios, interactive dashboard."
+
+Criteria Mapping
+"This project meets the rubric: documented analysis, clear visuals, policy-ready insights, and reproducible code. Thank you; I’m happy to share the repository and answer questions."
